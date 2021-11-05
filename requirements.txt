@@ -1,0 +1,9 @@
+cv2
+matplotlib
+os
+os.path
+itensorflow
+numpy
+tqdm
+tqdm_notebook
+time
