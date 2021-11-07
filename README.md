@@ -22,3 +22,5 @@ Used stanford cars train dataset
 And compared the generated image with query images with ORB descriptor.
 
 (deatil mentioned in ipython notebook)
+ 
+Use google colab or jupter lab to access the ipython notebook.
